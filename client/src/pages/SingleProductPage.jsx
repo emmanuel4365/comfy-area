@@ -14,9 +14,9 @@
 // import styled from 'styled-components'
 // import { Link } from 'react-router-dom'
 
-// const SingleProductPage = () => {
-//   return <h4>single product page</h4>
-// }
+const SingleProductPage = () => {
+  return <h4>single product page</h4>;
+};
 
 // const Wrapper = styled.main`
 //   .product-center {
@@ -52,4 +52,4 @@
 //   }
 // `
 
-// export default SingleProductPage
+export default SingleProductPage;

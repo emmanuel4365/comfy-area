@@ -1,11 +1,11 @@
-// import React from "react";
+import React from "react";
 // import styled from "styled-components";
 // import { PageHero } from "../components";
 // import aboutImg from "../assets/hero-bcg.jpeg";
 
-// const AboutPage = () => {
-//   return <h4>about page</h4>;
-// };
+const AboutPage = () => {
+  return <h4>about page</h4>;
+};
 
 // const Wrapper = styled.section`
 //   display: grid;
@@ -34,4 +34,4 @@
 //     grid-template-columns: 1fr 1fr;
 //   }
 // `;
-// export default AboutPage;
+export default AboutPage;
